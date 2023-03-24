@@ -8,29 +8,19 @@
 
 }
 
-
-
-
 .container-fluid {
 
    color: black;
 
-
-
-
    background-image: linear-gradient(to right, #A61B8E, #D62D68, #FE8057, #F7564E);
-
-
 
 
 }
 
 
-
-
 .navbar-brand {
 
-   font-size: 40px;
+   font-size: 39px;
 
    font-weight: bold;
 
@@ -55,7 +45,6 @@
    font-size: 120%;
 
 }
-
 
 
 
